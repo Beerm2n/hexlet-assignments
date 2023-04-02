@@ -29,8 +29,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("1 - Greet");
-        System.out.println("Hello hexlet");
         System.out.println(scrabble("rkqodlw", "woorld"));
     }
 }
